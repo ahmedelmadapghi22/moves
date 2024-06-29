@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Movie List App</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="adult">Adult</string>
+    <string name="response_body_is_null">Response body is null</string>
+    <string name="there_is_no_connection_internet">There is no connection internet</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search\n</string>
 </resources>
